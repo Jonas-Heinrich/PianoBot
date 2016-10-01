@@ -13,5 +13,5 @@ It was created in about 2 hours. (C++ backend of getting and analyzing pixels wa
 <h2>Results<h2>
 
 <p align="center">
-  <img src="https://github.com/Phrosten/PianoBot/tree/master/results/challengs.png"/>
+  <img src="https://raw.githubusercontent.com/Phrosten/PianoBot/master/results/Challenges.png"/>
 </p>
