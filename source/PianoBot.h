@@ -21,7 +21,8 @@
 #define GAME "Piano Tiles two"
 #define NUMBEROFTRACKS 4
 
-#include "../../_BasicUtil/BasicUtil.h"
+#include "BasicUtil.cpp"
+#include <iostream>
 
 class PianoBot
 {
