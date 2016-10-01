@@ -13,5 +13,5 @@ It was created in about 2 hours. (C++ backend of getting and analyzing pixels wa
 <h2>Results<h2>
 
 <p align="center">
-  <img src="result/challenges.png"/>
+  <img src="results/challenges.png"/>
 </p>
