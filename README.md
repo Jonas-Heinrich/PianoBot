@@ -11,4 +11,4 @@ It was created in about 2 hours. (C++ backend of getting and analyzing pixels wa
 
 ## Results
 
-![alt tag](https://raw.githubusercontent.com/Phrosten/PianoBot/branch/results/challenges.png)
+![alt tag](https://raw.githubusercontent.com/Phrosten/PianoBot/branch/results/Challenges.png)
