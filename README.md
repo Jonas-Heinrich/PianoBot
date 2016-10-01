@@ -23,6 +23,6 @@ It was created in about 2 hours. (C++ back end of getting and analyzing pixels w
 
 <h2>Video Documentation</h2>
 
-<a target="_blank" href="https://youtu.be/DtCzJKR9_n8">Music Example: Byer No.8</a>
-<a target="_blank" href="https://youtu.be/TweEm4Yn3zI">Beginner Challenge</a>
-<a target="_blank" href="https://youtu.be/W6rAOV55jZQ">Skilled Challenge</a>
+<p><a target="_blank" href="https://youtu.be/DtCzJKR9_n8">Music Example: Byer No.8</a></p>
+<p><a target="_blank" href="https://youtu.be/TweEm4Yn3zI">Beginner Challenge</a></p>
+<p><a target="_blank" href="https://youtu.be/W6rAOV55jZQ">Skilled Challenge</a></p>
