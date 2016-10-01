@@ -1,4 +1,4 @@
-# PianoBot
+## PianoBot
 This is a bot that plays "Piano Tap Tiles 2" on an Android Emulator running on a Windows machine.
 
 The method it uses is pretty simple:
@@ -8,3 +8,7 @@ The method it uses is pretty simple:
 - else: repeat
 
 It was created in about 2 hours. (C++ backend of getting and analyzing pixels was 99% of the work)
+
+## Results
+
+![alt tag](https://raw.githubusercontent.com/Phrosten/PianoBot/branch/results/challenges.png)
